@@ -1,0 +1,10 @@
+server_z1-backup.c
+.vscode
+sockets/
+
+char
+cryptodev
+mycryptodev
+virtio-cryptodev
+z2
+

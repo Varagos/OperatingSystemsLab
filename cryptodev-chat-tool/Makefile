@@ -3,6 +3,7 @@
 # Makefile
 # Simple example for cryptodev-linux
 #
+# Markos Girgis <mg.markosgirgis@gmail.com>
 # Stefanos Gerangelos <sgerag@cslab.ece.ntua.gr>
 # Vangelis Koukis <vkoukis@cslab.ece.ntua.gr>
 #

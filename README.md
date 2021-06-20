@@ -39,7 +39,7 @@ $ sudo make install
 # Load module into Linux kernel
 $ sudo insmod cryptodev.ko
 
-
+# Cd back to cryptodev-chat-tool and run makefile
 # Run server
 $ ./server-enc <PORT>
 # Run client
